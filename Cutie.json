@@ -3,7 +3,7 @@
         "device_id": "0e5165f59444108a",
         "key": "Shakzz",
         "expirydate": "31-12-2001",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "device456",
