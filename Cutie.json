@@ -2,8 +2,8 @@
     {
         "device_id": "0e5165f59444108a",
         "key": "shakzz",
-        "expirydate": "31-12-2024",
-        "Allowoffline": false
+        "expirydate": "31-12-2false
+        "Allowoffline": true
     },
     {
         "device_id": "device456",
