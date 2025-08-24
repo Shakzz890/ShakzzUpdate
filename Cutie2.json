@@ -11,6 +11,6 @@
         "username": "Shakzz",
         "password": "Cutie1",
         "expirydate": "23-08-2025",
-        "Allowoffline": true
+        "Allowoffline": false
     }
 ]
