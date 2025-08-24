@@ -112,5 +112,11 @@
         "key": "Shakzz",
         "expirydate": "01-09-2025",
         "Allowoffline": false
+    }.
+    {
+        "device_id": "9b2edf12dc4f2b4e",
+        "key": "Shakzz",
+        "expirydate": "01-09-2025",
+        "Allowoffline": false
     }
 ]
