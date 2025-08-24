@@ -5,6 +5,12 @@
         "expirydate": "31-12-2030",
         "Allowoffline": true
     },
+ {
+        "device_id": "4822a94e715dd96b",
+        "key": "Shakzz",
+        "expirydate": "01-09-2025",
+        "Allowoffline": false
+    },
     {
         "device_id": "a15127e694910250",
         "key": "Shakzz",
