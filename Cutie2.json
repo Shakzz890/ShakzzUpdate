@@ -7,6 +7,118 @@
         "Allowoffline": true
     },
     {
+        "device_id": "4822a94e715dd96b",
+        "username": "jak01",
+        "password": "123456",
+        "expirydate": "01-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "c450ef0c2a1fdfa1",
+        "username": "ryan",
+        "password": "030406",
+        "expirydate": "01-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "9c3fcb9d2127b08c",
+        "username": "marin",
+        "password": "291978",
+        "expirydate": "01-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "30465618cc36cc71",
+        "username": "Cacha",
+        "password": "Chandacali",
+        "expirydate": "01-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "2af32b4888c4b50e",
+        "username": "jeff",
+        "password": "kreyjazz",
+        "expirydate": "01-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "ca33ea9a8821b73b",
+        "username": "uno",
+        "password": "112896",
+        "expirydate": "01-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "45e710c47603539a",
+        "username": "pong",
+        "password": "012321",
+        "expirydate": "01-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "72a29e5367b4981f",
+        "username": "Bry20",
+        "password": "Bry279264",
+        "expirydate": "01-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "caa5b1cea713e8ed",
+        "username": "Bry20",
+        "password": "279264",
+        "expirydate": "01-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "ea3671eba58517fb",
+        "username": "ron",
+        "password": "090499",
+        "expirydate": "01-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "98d272f519933b2e",
+        "username": "Dan",
+        "password": "123456",
+        "expirydate": "01-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "ef74709f200b2fa5",
+        "username": "pat",
+        "password": "qwerty0987",
+        "expirydate": "01-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "bfe692a7f4d1cf9d",
+        "username": "joel",
+        "password": "121826",
+        "expirydate": "01-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "2282c9478baaabdc",
+        "username": "Cdtjohn1994",
+        "password": "080494",
+        "expirydate": "01-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "f14aa153d1d54656",
+        "username": "Ardee",
+        "password": "009654",
+        "expirydate": "01-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "700f6da0e72affc8",
+        "username": "Annie",
+        "password": "009654",
+        "expirydate": "01-09-2025",
+        "Allowoffline": false
+    },
+    {
         "device_id": "9e826f9ee2877ff4",
         "username": "Jamison",
         "password": "061983",
