@@ -12,6 +12,13 @@
         "password": "",
         "expirydate": "01-09-2025",
         "Allowoffline": false
+    }, 
+    {
+        "device_id": "b68100abe931fb21",
+        "username": "doss",
+        "password": "112896",
+        "expirydate": "01-09-2025",
+        "Allowoffline": false
     },
     {
         "device_id": "770b25fcfd2154bc ",
