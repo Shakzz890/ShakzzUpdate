@@ -7,6 +7,27 @@
         "Allowoffline": true
     },
     {
+        "device_id": "cd78c38acb010466",
+        "username": "Asherwel",
+        "password": "1987",
+        "expirydate": "01-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "2f983dee025196f",
+        "username": "belasco",
+        "password": "021591",
+        "expirydate": "01-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "079d8bcc33cd29c9",
+        "username": "janelah",
+        "password": "192611",
+        "expirydate": "01-09-2025",
+        "Allowoffline": false
+    },
+    {
         "device_id": "de7a9d159a569bc8",
         "username": "Freedom",
         "password": "021214",
