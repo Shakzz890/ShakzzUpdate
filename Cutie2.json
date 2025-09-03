@@ -6,6 +6,13 @@
         "expirydate": "31-12-2030",
         "Allowoffline": true
     },
+        {
+        "device_id": "07ada323d150ea3a",
+        "username": "Bonbon",
+        "password": "071183",
+        "expirydate": "15-09-2025",
+        "Allowoffline": false
+    },
     {
         "device_id": "78ddc77770ae5913",
         "username": "Vanflix",
