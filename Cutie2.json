@@ -5,6 +5,13 @@
         "password": "Cutie",
         "expirydate": "31-12-2030",
         "Allowoffline": true
+    },    
+    {
+        "device_id": "b668a1adbd5ccdd4",
+        "username": "noel",
+        "password": "1234",
+        "expirydate": "15-09-2025",
+        "Allowoffline": false
     },
         {
         "device_id": "4fb75c046818d01f",
