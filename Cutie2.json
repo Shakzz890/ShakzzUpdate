@@ -5,7 +5,28 @@
         "password": "Cutie",
         "expirydate": "31-12-2030",
         "Allowoffline": true
-    }, 
+    },
+     {
+        "device_id": "38a06a3d1f04cc25",
+        "username": "TCL",
+        "password": "234500",
+        "expirydate": "15-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "28b96eea8a0d9dc7",
+        "username": "dedean",
+        "password": "011023",
+        "expirydate": "15-09-2025",
+        "Allowoffline": false
+    },
+      {
+        "device_id": "5eb6d6be26acf043",
+        "username": " iizzKKoo",
+        "password": "010808",
+        "expirydate": "15-09-2025",
+        "Allowoffline": false
+    },
         {
         "device_id": "ab3fcb0c665c165a",
         "username": "killereye",
@@ -190,8 +211,8 @@
     },
     {
         "device_id": "d0ddcb2ae9ef3c94",
-        "username": "DagzXD",
-        "password": "Dagz7744",
+        "username": "Dagz",
+        "password": "dagz7744",
         "expirydate": "30-09-2025",
         "Allowoffline": false
     },
@@ -514,7 +535,7 @@
         "device_id": "98d272f519933b2e",
         "username": "Dan",
         "password": "123456",
-        "expirydate": "15-09-2025",
+        "expirydate": "30-09-2025",
         "Allowoffline": false
     },
     {
@@ -689,7 +710,7 @@
         "device_id": "de554bb0b52d9fd3",
         "username": "Jun",
         "password": "123456",
-        "expirydate": "15-09-2025",
+        "expirydate": "30-09-2025",
         "Allowoffline": false
     },
     {
