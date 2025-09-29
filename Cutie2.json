@@ -6,6 +6,13 @@
         "expirydate": "31-12-2030",
         "Allowoffline": true
     },
+        {
+        "device_id": "7a058be64d3f8b11",
+        "username": "x96mini",
+        "password": "12345",
+        "expirydate": "30-09-2025",
+        "Allowoffline": false
+    },
     {
         "device_id": "c8b7b23bfd3eae20",
         "username": "Jojo",
