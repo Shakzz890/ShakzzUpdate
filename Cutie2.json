@@ -7,6 +7,13 @@
         "Allowoffline": true
     },
     {
+        "device_id": "cfea9380a89579da",
+        "username": "alexiszai1213",
+        "password": "123456",
+        "expirydate": "15-10-2025",
+        "Allowoffline": false
+    },
+    {
         "device_id": "4af6f1948b19d688",
         "username": "jayps",
         "password": "100822",
