@@ -6,6 +6,13 @@
         "expirydate": "31-12-2030",
         "Allowoffline": true
     },
+     {
+        "device_id": "75752865c9843001",
+        "username": "russ",
+        "password": "072110",
+        "expirydate": "15-10-2025",
+        "Allowoffline": false
+    },
     {
         "device_id": "cfea9380a89579da",
         "username": "alexiszai1213",
