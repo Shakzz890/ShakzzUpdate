@@ -6,6 +6,13 @@
         "expirydate": "31-12-2030",
         "Allowoffline": true
     },
+    {
+        "device_id": "1eca0aa0242440d8",
+        "username": "kai",
+        "password": "kai2000",
+        "expirydate": "15-10-2025",
+        "Allowoffline": false
+    },
      {
         "device_id": "c7c5e612eb33dd05",
         "username": "hiei",
