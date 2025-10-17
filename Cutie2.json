@@ -6,6 +6,13 @@
         "expirydate": "31-12-2030",
         "Allowoffline": true
     },
+    {
+        "device_id": "fd8cec58a5db6423",
+        "username": "yuroi",
+        "password": "yuroi12345",
+        "expirydate": "15-11-2025",
+        "Allowoffline": false
+    },
      {
         "device_id": "7861afd8b593141b",
         "username": "wearegamersultimate",
