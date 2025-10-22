@@ -1,5 +1,5 @@
 {
-  "showDialog": true,
+  "showDialog": false,
   "latestVersionCode": 91,
   "latestVersionName": "3.0.5.1",
   "title": "UPDATE AVAILABLE",
