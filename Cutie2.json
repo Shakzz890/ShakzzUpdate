@@ -6,6 +6,20 @@
         "expirydate": "31-12-2030",
         "Allowoffline": true
     },
+     {
+        "device_id": "78e6c5e6dd834385",
+        "username": "vanityyin",
+        "password": "vanityyin",
+        "expirydate": "31-10-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "6fe461a4b49932e2",
+        "username": "Renex08",
+        "password": "Asarasul12",
+        "expirydate": "31-10-2025",
+        "Allowoffline": false
+    },
     {
         "device_id": "c2cbc2faaebc5823",
         "username": "chupschips",
