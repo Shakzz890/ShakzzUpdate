@@ -1,10 +1,10 @@
 {
   "config": {
     "country": "Philippines",
-    "backgroundTheme": "snow",
+    "backgroundTheme": "stars",
     "updateAvailable": false,
-    "themeColor": "#00ffff",
-    "textColor": "#000000"
+    "themeColor": "#8e44ad",
+    "textColor": "#ffffff"
   },
   "loginDialog": {
     "title": "Welcome To Shakzz",
@@ -60,7 +60,7 @@
       "device_ids": [
         "YOUR_DEVICE_ID_HERE",
         "ANOTHER_DEVICE_ID",
-        "shakzz",
+        "dpmods",
         "lol"
       ]
     },
