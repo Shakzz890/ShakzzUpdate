@@ -1,10 +1,10 @@
 {
   "config": {
     "country": "Philippines",
-    "backgroundTheme": "stars",
+    "backgroundTheme": "snow",
     "updateAvailable": false,
-    "themeColor": "#8e44ad",
-    "textColor": "#ffffff"
+    "themeColor": "#00ffff",
+    "textColor": "#000000"
   },
   "loginDialog": {
     "title": "Welcome To Shakzz",
